@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.42 LTS (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="1" name="Name That Color"/>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="" user="" host=""/>
+  </section>
+  <section name="files">
+    <file name="ntc.color-funcs.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="707293e1bbe1a1541550ba9269bb6f9b"/>
+    </file>
+    <file name="ntc.colors-names.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="afa3bcef9d4f28075a520733dad3b08c"/>
+    </file>
+    <file name="ntc.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="f0cacb7c4a5bda7d4ced34c101702707"/>
+    </file>
+    <file name="ntc.text-funcs.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="f920a843a7ea89bc025ee8e67ceb83c4"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="ntc.pb"/>
+      <outputfile value="ntc.exe"/>
+      <executable value="ntc.exe"/>
+      <options xpskin="1"/>
+      <format exe="console" cpu="0"/>
+      <versioninfo enable="1">
+        <field0 value="1.0.0.0"/>
+        <field1 value="1.0.0.0"/>
+        <field2 value="Tristano Ajmone"/>
+        <field3 value="Name That Color"/>
+        <field4 value="v1"/>
+        <field5 value="1.0"/>
+        <field6 value="Looks up a color value and returns its name."/>
+        <field7 value="ntc"/>
+        <field8 value="ntc.exe"/>
+        <field9 value="Tristano Ajmone, 2016 (MIT License)."/>
+        <field13 value="tajmone@gmail.com"/>
+        <field14 value="https://github.com/tajmone/name-that-color"/>
+        <field15 value="VOS_NT"/>
+        <field16 value="VFT_APP"/>
+        <field17 value="0809 English (United Kingdom)"/>
+      </versioninfo>
+    </target>
+  </section>
+</project>
