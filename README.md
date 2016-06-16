@@ -5,7 +5,7 @@ A command line tool that returns the color name of an Hex or RGB color value.
 
 ntc is a free open source utility developed in PureBASIC (v5.42) by Tristano Ajmone in June 2016, and released under the [MIT License](LICENSE).
 
--   Ready to use binary for Windows 64bit available in release.
+-   Ready to use [binary for Windows 64bit available in release](https://github.com/tajmone/name-that-color/releases/latest).
 
 > NOTE: I might get around to publish also binaries for Windows 32bit and Linux. In the meantime, if you can help, clone the repo and release binaries for other OSs’ (especially Mac, which I don’t have access to!) for the benefit of those who don’t have PureBASIC.
 
